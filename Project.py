@@ -1,9 +1,8 @@
-#Project
-
 # project : student managment system
-#problem statement
-# create a student management system using python and oops
 
+#problem statement :
+
+# create a student management system using python and oops
 # the system allows the user to:
 # add a new student
 # view all students.
@@ -12,15 +11,11 @@
 # delete a student record
 # display the student with the highest marks
 # exit the application
-# student details
 
+# student details :
 # each student should have :
 # student id
 # age
-
-# Project: Student Management System
-# Problem Statement: Create a student management system using Python and OOPs
-
 class Student:
     def __init__(self, name, age, id, marks):
         self.name = name
